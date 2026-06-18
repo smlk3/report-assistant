@@ -1,0 +1,28 @@
+Ek A. Test Soruları ve Cevap Anahtarı
+NovaTeknik A.Ş. — 2025 Q4 Faaliyet Raporu
+Aşağıdaki sorular, rapor asistanı sistemini test etmek için hazırlanmıştır. (Bu bölüm gerçek raporlarda 
+bulunmaz; sadece test amaçlıdır.)
+Sayısal / Hesaplama Soruları (SQL yolu)
+1. 2025'in dört çeyreğindeki ortalama çeyreklik gelir nedir?
+→ Beklenen cevap: 79.275.000,00 TL  (317.100.000 / 4)
+2. 2025 toplam yıllık net kâr ne kadardır?
+→ Beklenen cevap: 52.200.000,00 TL  (11.000.000 + 13.200.000 + 13.200.000 + 14.800.000)
+3. Q4'te en yüksek gelire sahip bölge hangisidir?
+→ Beklenen cevap: Türkiye  (41.600.000,00 TL)
+4. Q4'te toplam çalışan sayısı kaçtır?
+→ Beklenen cevap: 430  (210 + 108 + 70 + 42)
+5. Mühendislik departmanı Q3'ten Q4'e kaç kişi büyümüştür?
+→ Beklenen cevap: 26 kişi  (210 − 184)
+Yorumsal Sorular (RAG yolu)
+6. Raporun ana bulguları nelerdir?
+→ Beklenen cevap: Q4 geliri 92,4M TL (+%24 yıllık), net kâr 14,8M TL (~%16 marj); büyüme 
+bulut/SaaS ve Avrupa pazarından.
+7. Şirketin karşılaştığı temel riskler nelerdir?
+→ Beklenen cevap: Kur dalgalanması, yetenek/mühendis rekabeti, Avrupa veri koruma regülasyonu.
+8. Hangi pazar en hızlı büyüdü ve neden önemli?
+→ Beklenen cevap: Avrupa (+%48); şirketin gelecek büyüme stratejisinin merkezinde.
+9. 2026 için yönetimin beklentisi nedir?
+→ Beklenen cevap: Gelir büyümesinin sürmesi; hedeflenen yıllık büyüme %20-25, bulut segmenti ve 
+Avrupa ağırlıklı.
+10. Hangi ürün segmenti en istikrarlı büyümeyi sağlıyor?
+→ Beklenen cevap: Bulut yazılım (SaaS), abonelik tabanlı gelir modeli sayesinde.
